@@ -1,0 +1,53 @@
+body{
+  background-color: black;
+;
+}
+
+h1{
+  color:#FF0040;
+  text-align: center;
+}
+
+h3{
+  color: pink;
+}
+
+hr {
+  border: 2px solid pink;
+  left: 10px;
+  top:15%;
+  position: absolute;
+  width: 80px;
+}
+
+
+section{
+  width: 98%;
+}
+
+.pic{
+  display: inline-block;
+  position: relative;
+  height: 250px;
+  width: 300px;
+  margin-left: 7%;
+  margin-top: 3%;
+}
+
+img {
+  position: relative;
+  width: 100%;
+}
+
+ p {
+  color: white;
+  text-align: right;
+}
+
+.up{
+  color: #FF0040;
+  position: absolute;
+    bottom: 3%;
+    left:65%;
+    font-weight: 600;
+}
